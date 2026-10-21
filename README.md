@@ -1,4 +1,4 @@
-# BÁO CÁO BÀI TẬP / ĐỒ ÁN
+# BÁO CÁO BÀI TẬP
 
 ## THÔNG TIN SINH VIÊN
 
