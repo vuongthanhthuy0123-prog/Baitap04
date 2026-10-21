@@ -35,6 +35,9 @@
 
 #### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/42dc5bed-e5eb-41df-ae5f-3dfb8dd3d8ed" />
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/4de904fd-ce32-4db3-ae77-6e7bd05fa5c2" />
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/c3fca902-b21a-41ae-bdc8-26190a002929" />
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/91175e90-7e72-4760-a264-f722769a22a5" />
 
 #### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/1196ecdb-f59d-450e-ad16-41d2cd422e46" />
@@ -45,9 +48,11 @@
 
 #### 1. Ảnh màn hình Giao diện chính
 <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/efe192ba-6932-440e-95e9-fd46912484ae" />
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/c9f7ae66-e6a9-4efd-af69-2de35de7a450" />
 
 #### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/d2c18cff-960d-4eb8-ac98-c3e4d5a8deb4" />
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/c26f44dd-c353-4bfe-a29d-f37cc33f50a1" />
 
 #### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/0aa84ed6-4f51-4798-acb3-5d94b3bd0771" />
